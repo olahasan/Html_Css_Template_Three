@@ -1,5 +1,5 @@
 # Html_Css_Template_Three
-a responsive HTML and CSS.
+a responsive HTML and CSS project.
 
 ## Table of contents
 
